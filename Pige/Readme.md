@@ -20,21 +20,19 @@ Also, there is a contact page, which can be accessed through toolbar mail icon.
 ### Screenshots
 <a href="url"><img src="http://dziaugys.com/pige/welcome.png" align="left" height="318" width="180" ></a>
 
-![alt tag](http://dziaugys.com/pige/welcome.png  width="200")
+<a href="url"><img src="http://dziaugys.com/pige/map.png" align="left" height="318" width="180" ></a>
 
-![alt tag](http://dziaugys.com/pige/map.png)
+<a href="url"><img src="http://dziaugys.com/pige/marker.png" align="left" height="318" width="180" ></a>
 
-![alt tag](http://dziaugys.com/pige/marker.png)
+<a href="url"><img src="http://dziaugys.com/pige/filter.png" align="left" height="318" width="180" ></a>
 
-![alt tag](http://dziaugys.com/pige/filter.png)
+<a href="url"><img src="http://dziaugys.com/pige/slidingPanelCollapsed.png" align="left" height="318" width="180" ></a>
 
-![alt tag](http://dziaugys.com/pige/slidingPanelCollapsed.png)
+<a href="url"><img src="http://dziaugys.com/pige/slidingPanelMoving.png" align="left" height="318" width="180" ></a>
 
-![alt tag](http://dziaugys.com/pige/slidingPanelMoving.png)
+<a href="url"><img src="http://dziaugys.com/pige/details.png" align="left" height="318" width="180" ></a>
 
-![alt tag](http://dziaugys.com/pige/details.png)
-
-![alt tag](http://dziaugys.com/pige/viewpager.png)
+<a href="url"><img src="http://dziaugys.com/pige/viewpager.png" align="left" height="318" width="180" ></a>
 
 
 
