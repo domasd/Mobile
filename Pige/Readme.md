@@ -18,14 +18,22 @@ You can filter markers by price and type (flat/house).
 Also, there is a contact page, which can be accessed through toolbar mail icon.
 
 ### Screenshots
-![alt tag](http://dziaugys.com/pige/welcome.png)
+![alt tag](http://dziaugys.com/pige/welcome.png  width="200")
+
 ![alt tag](http://dziaugys.com/pige/map.png)
+
 ![alt tag](http://dziaugys.com/pige/marker.png)
+
 ![alt tag](http://dziaugys.com/pige/filter.png)
+
 ![alt tag](http://dziaugys.com/pige/slidingPanelCollapsed.png)
+
 ![alt tag](http://dziaugys.com/pige/slidingPanelMoving.png)
+
 ![alt tag](http://dziaugys.com/pige/details.png)
+
 ![alt tag](http://dziaugys.com/pige/viewpager.png)
+
 
 
 
