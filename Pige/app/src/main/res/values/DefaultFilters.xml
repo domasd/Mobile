@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="MaxCost" type="string">10000000</item>
+    <item name="FlatBool" type="bool">True</item>
+    <item name="HouseBool" type="bool">True</item>
+</resources>

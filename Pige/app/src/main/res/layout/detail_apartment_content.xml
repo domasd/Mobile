@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:showIn="@layout/map">
+
+
+    <TextView
+        android:id="@+id/apartment_title_full"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/tableLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        android:layout_below="@+id/apartment_title_full"
+        android:stretchColumns="*">
+
+        <TableRow
+            android:id="@+id/detail_info_table_address_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/detail_info_address_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/address"
+                android:textStyle="bold">
+            </TextView>
+
+            <TextView
+                android:id="@+id/detail_info_address"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3">
+            </TextView>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/detail_info_table_contacts_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/detail_info_contacts_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/contacts"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/detail_info_contacts"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3">
+
+            </TextView>
+        </TableRow>
+
+
+        <TableRow
+            android:id="@+id/detail_info_table_cost_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/detail_info_cost_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/price"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/detail_info_cost"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/detail_info_table_description_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/detail_info_description_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/description"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/detail_info_description"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="3" />
+        </TableRow>
+    </TableLayout>
+</RelativeLayout>

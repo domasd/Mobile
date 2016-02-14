@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pige</string>
+    <string name="action_settings">Nustatymai</string>
+    <string name="alternativeSearch">Arba naudokis tekstine paieška</string>
+    <string name="welcomeLabel">Spustelk, kur nori gyventi!</string>
+    <string name="contact">Susisiekti</string>
+    <string name="title_activity_welcome_">Welcome_Activity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="siunciama">Siunčiama...</string>
+    <string name="prasome_palaukti">Prašome palaukti</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="image">"Nuotrauka "</string>
+    <string name="name">Vardas</string>
+    <string name="email">Email</string>
+    <string name="message">Pranešimas</string>
+    <string name="detailInformation">Detali informacija</string>
+    <string name="address">Adresas</string>
+    <string name="contacts">Kontaktai</string>
+    <string name="PriceEur">Kaina: %1$.3f Eur</string>
+    <string name="apartmentIdNotExists">Apartment with given Id does not exist</string>
+    <string name="sent">Išsiųsta</string>
+    <string name="authorSignature">Domas Džiaugys\n2015. VU MIF, Programų sistemos.</string>
+    <string name="description">Aprašymas</string>
+    <string name="price">Kaina</string>
+</resources>

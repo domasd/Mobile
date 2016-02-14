@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Vilnius_Latitude" type="string">54.683333</item>
+    <item name="Vilnius_Longtitude" type="string" >25.283333</item>
+
+    <item name="Kaunas_Latitude" type="string" >54.894299</item>
+    <item name="Kaunas_Longtitude" type="string" >23.897685</item>
+
+    <item name="Klaipeda_Latitude" type="string" >55.711111</item>
+    <item name="Klaipeda_Longtitude" type="string">21.130556</item>
+
+    <item name="Siauliai_Latitude" type="string" >55.933333</item>
+    <item name="Siauliai_Longtitude" type="string">23.316667</item>
+
+    <item name="Mazeikiai_Latitude" type="string" >56.306775</item>
+    <item name="Mazeikiai_Longtitude" type="string">22.340945</item>
+
+    <item name="Lazdijai_Latitude" type="string" >54.221897</item>
+    <item name="Lazdijai_Longtitude" type="string">23.513758</item>
+
+    <item name="Panevezys_Latitude" type="string" >55.732939</item>
+    <item name="Panevezys_Longtitude" type="string">24.357240</item>
+
+    <item name="Utena_Latitude" type="string" >55.499797</item>
+    <item name="Utena_Longtitude" type="string">25.609851</item>
+
+    <item name="Marijampole_Latitude" type="string" >54.541003</item>
+    <item name="Marijampole_Longtitude" type="string">23.348297</item>
+
+    <item name="Druskininkai_Latitude" type="string" >54.000957</item>
+    <item name="Druskininkai_Longtitude" type="string">23.984195</item>
+</resources>
